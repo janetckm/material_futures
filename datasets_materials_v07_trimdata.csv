@@ -1,0 +1,56 @@
+A,B,C,D,E,Transform,Application,texture,Property
+timber,bio-resin,,,,mix,furniture,hard,paint
+leather,natural bone glue,,,,heat,furniture,hard,material
+stone,,,,,mix,construction,hard,rock
+plantain waste,coffee waste,aluminium waste,,,mix,material,hard,material
+SLS Print waste,silica sand,,,,"electric current, heat",furniture,hard,material
+newspaper,glue,,,,"roll, compress",construction,hard,wood
+electronic (aluminium),,,,,weave,textile,soft,textile
+plastic,,,,,heat,material,hard,bioplastic
+plastic bottle,,,,,heat,mechanism,hard,bioplastic
+pine needles,,,,,compress,furniture,soft,textle
+Pinus Pinaster,cellulose,lignin,rosin,,heat,resin,hard,material
+willow branches,water,,,,heat,pigment,hard,paint
+seaweed,,,,,heat,dye,soft,paint
+seaweed,,,,,dry,furniture,soft,paint
+bull kelp,,,,,dry,textile,flexible,textile
+corn husk,charcoal,,,,boil,material,hard,material
+sheep wool,bioresin,,,,heat,furniture,hard,furniture
+black propolis,cocoon,natural bee resin,sikworm,,heat,resin,hard,glass
+cow dung,clay,straw,,,mix,"material, furniture",hard,rock
+manure ,cellulose,,,,extract,textile,soft,bioplastic
+hair,resin,,,,knit,fibre,soft,textile
+hair,,,,,compress,material,hard,furniture
+hair,aluminium ,,,,heat,pigment,hard,paint
+dust,,,,,element,pigment,hard,coating
+dust,bio-resin,,,,"compress,",material,hard,coating
+dust,glue,,,,compress,furniture,hard,coating
+glass waste,cement,,,,mix,material,hard,rock
+mussel shell,,,,,mix,material,hard,plaster
+wheat,rye straw,,,,knit,textile,soft,textile
+agar,,,,,boil,material,soft,bioplastic
+pine fibre,,,,,heat,cooking,soft,cooking method
+plant-based lyocell,,,,,heat,textile,soft,textile
+Phenolic resin,thermosetting plastic,,,,heat,material,hard,bioplastic
+plant,textile,,,,heat,material,hard,bioplastic
+flax,PLA,,,,heat,furniture,hard,bioplastic
+mycelium,,,,,grow,textile,flexible,leather
+mycelium,,,,,grow,material,hard,bioplastic
+Mycelium,,,,,heat,textile,soft,coating
+mycelium,water,,,,mould,furniture,hard,material
+cellulose,bateria,,,,grow,pattern,hard,coating
+oat,wheat,,,,,,,
+plastic,textile,glass,,,heatpress,material,hard,rock
+plastic waste,stone,,,,mix,material,hard,rock
+Coffee grounds (used),Alginate,Glycerol,water,Vinegar,mix,material,hard,material
+Carrageenan iota,Glycerol,Water,,,heat,material,hard,material
+Eggshell,Vinegar,Alginate,water,,heat,material,flexible,material
+Agar agar,Glycerol,water,cornstorch,,heat,material,flexible,bioplastic
+Chitosan,Glycerol,Vinegar,Water,,mould,material ,hard,bioplastic
+Green tea,sugar,Sodium Bicarbonate,water,,grow,material,soft,textile
+Agar agar,Glycerol,Cornstarch,cork,water,heat,material,hard,material
+Agar agar,Glycerol,Water,,,heat,material,soft,bioplastic
+Agar agar,Glycerol,Water,Gelatin,,heat,material,soft,bioplastic
+Agar agar,glycerol,water,,,heat,material,soft,bioplastic
+Glycerol,gelatin,water,,,heat,material,hard,bioplastic
+glycerol,gelatin ,water,Red ochre,,heat,material,hard,leather
