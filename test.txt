@@ -1,0 +1,79 @@
+timber	bio-resin	mix	furniture	hard	paint
+leather	natural bone glue	heat	furniture	hard	material
+stone	mix	construction	hard	rock
+plantain waste	aluminium waste	coffee	mix	material	hard	material
+SLS Print waste	silica sand	heat	furniture	hard	material
+newspaper	glue	compress	construction	hard	wood
+electronic (aluminium)	knit	textile	soft	textile
+plastic	heat	material	hard	bioplastic
+plastic bottle	heat	mechanism	hard	bioplastic
+pine needles	compress	furniture	soft	textile
+Pinus Pinaster	cellulose	lignin	rosin	heat	resin	hard	material
+willow branches	water	heat	pigment	hard	paint
+seaweed	heat	dye	soft	paint
+seaweed	dry	furniture	soft	paint
+bull kelp	dry	textile	flexible	textile
+corn husk	charcoal	heat	material	hard	material
+sheep wool	bioresin	heat	furniture	hard	furniture
+black propolis	cocoon	natural bee resin	sikworm	heat	resin	hard	glass
+cow dung	clay	straw	mix	material	hard	rock
+manure	cellulose	grow	textile	soft	bioplastic
+hair	resin	knit	fibre	soft	textile
+hair	compress	material	hard	furniture
+hair	aluminium	heat	pigment	hard	paint
+dust	grow	pigment	hard	coating
+dust	bio-resin	compress	material	hard	coating
+dust	glue	compress	furniture	hard	coating
+glass waste	cement	mix	material	hard	rock
+mussel shell	mix	material	hard	material
+wheat	rye straw	knit	textile	soft	textile
+agar	heat	material	soft	bioplastic
+pine fibre	heat	cooking	soft	cooking method
+plant-based lyocell	heat	textile	soft	textile
+Phenolic resin	thermosetting plastic	heat	material	hard	bioplastic
+plant	textile	heat	material	hard	bioplastic
+flax	PLA	heat	furniture	hard	bioplastic
+mycelium	grow	textile	flexible	leather
+mycelium	grow	material	hard	bioplastic
+Mycelium	heat	textile	soft	coating
+mycelium	water	grow	furniture	hard	material
+cellulose	bateria	grow	pattern	hard	coating
+oat	wheat	mix	material	hard	material
+plastic	textile	glass	compress	furniture	hard	rock
+plastic waste	stone	mix	furniture	hard	rock
+coffee ground	Alginate	Glycerol	water	Vinegar	mix	material	hard	material
+Carrageenan iota	glycerin	Water	heat	material	hard	material
+Eggshell	Vinegar	Alginate	water	heat	material	flexible	material
+Agar agar	glycerin	water	cornstorch	heat	material	flexible	bioplastic
+Chitosan	glycerin	Vinegar	Water	grow	material	hard	bioplastic
+Green tea	sugar	Sodium Bicarbonate	water	grow	material	soft	textile
+Agar agar	glycerin	Cornstarch	cork	water	heat	material	hard	material
+Agar agar	glycerin	Water	heat	material	soft	bioplastic
+Agar agar	glycerin	Water	Gelatin	heat	material	soft	bioplastic
+Agar agar	glycerin	water	heat	material	soft	bioplastic
+Glycerol	gelatin	water	heat	material	hard	bioplastic
+glycerol	gelatin	water	Red ochre	heat	material	hard	leather
+fish skin	vinegar	heat	material	soft	bioplastic
+red algae	heat	material	soft	bioplastic
+animal bone	heat	glue	soft	bioresin
+starch	glycerin	vinegar	water	heat	material	flexible	bioplastic
+starch	glycerin	vinegar	oil	water	heat	material	flexible	bioplastic
+banana peel	vinegar	honey	heat	material	soft	bioplastic
+orange peel	starch	sodium bicarbonate	lemon juice	vinegar	heat	material	hard	bioplastic
+coffee ground	starch	sodium bicarbonate	vinegar	lemon juice	heat	material	hard	bioplastic
+watermelon peel	starch	honey	lemon juice	heat	material	soft	bioplastic
+banana peel	glycerin	vinegar	baking soda	heat	material	hard	bioplastic
+tea waste	starch	vinegar	honey	heat	material	hard	bioplastic
+grapes peel	starch	lemon juice	honey	heat	material	hard	bioplastic
+coffee ground	starch	vinegar	glycerol	gelatin	heat	material	hard	bioplastic
+nut shell	coffee ground	agar	glycerol	agar	heat	material	hard	bioplastic
+starch	glycerin	vinegar	heat	material	flexible	bioplastic
+starch	oil	water	heat	material	soft	bioplastic
+starch	vinegar	glycerine	agar	heat	material	hard	bioplastic
+starch	flour	vinegar	glycerol	wax	heat	material	hard	bioplastic
+fish	heat	glue	soft	bioresin
+pine pitch	heat	glue	soft	bioresin
+starch	glycerin	vinegar	water	heat	material	soft	bioplastic
+plastic	heat	material	hard	material
+Grape	glycerin	agar agar	heat	material	hard	bioplastic
+nutshell	mycelium	flour	heat	material	hard	material
